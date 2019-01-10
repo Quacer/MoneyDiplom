@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="AddItemTitle">Новая запись</string>
+    <string name="activity_items_list_title">Учёт бюджета</string>
+
+
+    <string name="tab_incomes">Доходы</string>
+    <string name="tab_expense">Расходы</string>
+    <string name="tab_balance">Баланс</string>
+    
+    <string name="your_balance">Ваш баланс</string>
+    <string name="price">%1$d \u20bd</string>
+
+    <string-array name="tab_title">
+        <item>@string/tab_incomes</item>
+        <item>@string/tab_expense</item>
+        <item>@string/tab_balance</item>
+    </string-array>
+</resources>
